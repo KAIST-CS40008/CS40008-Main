@@ -1,3 +1,4 @@
-# CS40008-Main
+# KAIST CS40008 (Formerly CS408)
 
-KAIST CS40008 Course
+Welcome to the `main` repository of CS40008. This is the central hub for all
+course activities.
