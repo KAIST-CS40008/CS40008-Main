@@ -9,4 +9,4 @@ You should visit [this page](https://softsec.kaist.ac.kr/courses/2025f-cs40008/)
 
 ## Questions
 
-You should use the discussions page of this repository for questions.
+You should use the [discussions page](https://github.com/KAIST-CS40008/CS40008-Main/discussions) of this repository for questions.
